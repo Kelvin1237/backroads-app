@@ -94,7 +94,7 @@ export const tours = [
     info: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumquevitae tempore voluptatum maxime reprehenderit eum quodexercitationem fugit, qui corporis.",
     location: "hong kong",
     duration: 8,
-    amount: 5000,
+    amount: 5200,
   },
   {
     id: 4,
