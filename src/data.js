@@ -104,6 +104,6 @@ export const tours = [
     info: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumquevitae tempore voluptatum maxime reprehenderit eum quodexercitationem fugit, qui corporis.",
     location: "kenya",
     duration: 20,
-    amount: 3300,
+    amount: 3500,
   },
 ];
